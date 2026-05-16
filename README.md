@@ -3,7 +3,7 @@
 PyTorch implementation of "FPAL: A Full-Process Probability-Driven Active Learning for Whole Slide Image Diagnosis".
 
 <div align="center">
-  <img width="100%" alt="" src="XXX.png">
+  <img width="100%" alt="" src="FPAL_framework.png">
 </div>
 
 ## Setup
